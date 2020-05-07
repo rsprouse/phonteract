@@ -1,2 +1,3 @@
 # phonteract
-Interactive phonetics tools
+
+This repository contains interactive phonetics tools that can be launched on Binder.
