@@ -1,5 +1,2 @@
-# Install vim
-apt-get update
-apt-get -y install vim
 # enable jupyter_server_proxy
 jupyter serverextension enable --sys-prefix jupyter_server_proxy
